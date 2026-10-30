@@ -5,7 +5,8 @@
     "area": "World models · Physical AI",
     "url": "https://wclw1021.github.io/",
     "photo": "https://wclw1021.github.io/assets/img/prof_pic.jpg",
-    "source": "https://wclw1021.github.io/"
+    "source": "https://wclw1021.github.io/",
+    "category": "doctoral"
   },
   {
     "name": "Siyuan Chen",
@@ -13,7 +14,8 @@
     "area": "Neural simulation · Biomolecular modeling",
     "url": "https://chensiyuan030105.github.io/",
     "photo": "",
-    "source": "https://chensiyuan030105.github.io/about/"
+    "source": "https://chensiyuan030105.github.io/about/",
+    "category": "doctoral"
   },
   {
     "name": "Heng Zhang",
@@ -21,7 +23,8 @@
     "area": "Robotics · Differentiable simulation",
     "url": "https://peterchencyc.com/joining",
     "photo": "",
-    "source": "https://peterchencyc.com/joining"
+    "source": "https://peterchencyc.com/joining",
+    "category": "doctoral"
   },
   {
     "name": "Weijia Zeng",
@@ -29,7 +32,8 @@
     "area": "3D vision · Graphics",
     "url": "https://www.cs.ubc.ca/~kmyi/team/",
     "photo": "",
-    "source": "https://www.cs.ubc.ca/~kmyi/team/"
+    "source": "https://www.cs.ubc.ca/~kmyi/team/",
+    "category": "doctoral"
   },
   {
     "name": "Xiyang Tan",
@@ -37,7 +41,8 @@
     "area": "Generative AI · Physics-based simulation",
     "url": "https://supertan0204.github.io/",
     "photo": "https://supertan0204.github.io/images/xiyang.jpg",
-    "source": "https://peterchencyc.com/joining"
+    "source": "https://peterchencyc.com/joining",
+    "category": "doctoral"
   },
   {
     "name": "Shixun Huang",
@@ -45,7 +50,8 @@
     "area": "Physics AI · Model reduction",
     "url": "https://alessange.github.io/",
     "photo": "https://alessange.github.io/images/profile/shixun_huang_grad_profile.png",
-    "source": "https://alessange.github.io/"
+    "source": "https://alessange.github.io/",
+    "category": "doctoral"
   },
   {
     "name": "Qianjun Xia",
@@ -53,7 +59,8 @@
     "area": "Robotics · Physical intelligence",
     "url": "https://qianjun-xia.github.io/",
     "photo": "",
-    "source": "https://qianjun-xia.github.io/about/"
+    "source": "https://qianjun-xia.github.io/about/",
+    "category": "doctoral"
   },
   {
     "name": "Guanxiong Chen",
@@ -61,6 +68,26 @@
     "area": "Deformable simulation · Robot manipulation",
     "url": "https://www.cs.ubc.ca/~gxchen/",
     "photo": "https://www.cs.ubc.ca/~gxchen/images/profile_2024-04-10.jpg",
-    "source": "https://www.cs.ubc.ca/~gxchen/"
+    "source": "https://www.cs.ubc.ca/~gxchen/",
+    "category": "doctoral"
+  },
+  {
+    "name": "Mengdi Wang",
+    "role": "Postdoctoral fellow",
+    "area": "Physical simulation · World models · GPU solvers",
+    "url": "https://wang-mengdi.github.io/",
+    "photo": "https://wang-mengdi.github.io/assets/img/mengdi.jpg",
+    "source": "https://wang-mengdi.github.io/",
+    "category": "postdoctoral"
+  },
+  {
+    "name": "Baiming Zhang",
+    "role": "Visiting International Research Student · Oct 2026–Jan 2027 (expected)",
+    "area": "Zhejiang University undergraduate · Scientific machine learning",
+    "url": "https://baiming-zhang.github.io/",
+    "photo": "https://baiming-zhang.github.io/images/my-pic.jpg",
+    "source": "https://baiming-zhang.github.io/",
+    "publications": false,
+    "category": "visiting"
   }
 ]

@@ -61,3 +61,13 @@ Each publication record has a `sources` field. Media originals and derived local
 ## Content scope
 
 This is a curated public-source collection, not a guarantee of an exhaustive or automatically synchronized bibliography. It deliberately distinguishes current members' other collaborations from Peter-coauthored research and includes work predating the lab's UBC affiliation. No citation counts, institution-wide achievements, unconfirmed funding claims, or unpublished results were added.
+
+## Team and robotics update · 2026-10-30
+
+- https://wang-mengdi.github.io/ — explicitly identifies Mengdi Wang as a postdoctoral fellow in Peter Yichen Chen’s UBC PhysAI Lab; source of his portrait.
+- https://wang-mengdi.github.io/publications/ — nine additional bibliographic records, retained as member collaborations rather than attributed to the present UBC lab.
+- https://baiming-zhang.github.io/ — Baiming Zhang identifies himself as a Zhejiang University undergraduate registered as a UBC VIRS; the expected visit is October 2026–January 2027. Listed separately from PhD and postdoctoral researchers; source of his portrait.
+- https://www.cs.ubc.ca/~gxchen/ — current co-supervision, five additional bibliographic records, and the homepage’s Agentic Real2Sim robot rendering at `images/agentic_real2sim.png`.
+- https://agentic-real2sim.github.io/ — credited project and research-film destination for the homepage.
+
+The confirmed public roster contains eight doctoral researchers, one postdoctoral fellow, and one visiting student. This is a public-source snapshot, not a claim that every current member has been identified. See TEAM_SOURCES.md for the individual evidence links.

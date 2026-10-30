@@ -101,6 +101,25 @@
     "id": "diffphd-a-unified-differentiable-solver-for-heterogeneous-elastodynamics"
   },
   {
+    "title": "Efficient Open-Boundary Poisson Solves",
+    "venue": "ACM Transactions on Graphics (Proc. SIGGRAPH Asia) · 2026",
+    "year": 2026,
+    "authors": "Xingyu Ni, Jiong Chen†, Siyuan Chen, Caoliwen Wang, Mathieu Desbrun, Taku Komura",
+    "links": {
+      "Research demos": "https://chensiyuan030105.github.io/demos/"
+    },
+    "sources": [
+      "https://chensiyuan030105.github.io/publications/",
+      "https://wclw1021.github.io/publications/"
+    ],
+    "image": "https://chensiyuan030105.github.io/assets/studio/media/open-boundary.jpg",
+    "video": "https://chensiyuan030105.github.io/assets/studio/media/open-boundary.mp4",
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "efficient-open-boundary-poisson-solves"
+  },
+  {
     "title": "EUPHORIA: Efficient Universal Planning via Hybrid Optimization for Robust Industrial Robotic Assembly",
     "authors": "Shih-Yu Lai, Chia-Ching Yen, Yang-Ting Shen, Peter Yichen Chen, Yu-Lun Liu, Bing-Yu Chen",
     "venue": "arXiv preprint · 2026",
@@ -193,6 +212,24 @@
     "id": "m-abd-scalable-efficient-and-robust-multi-affine-body-dynamics"
   },
   {
+    "title": "Matrix-Free Multigrid with Algebraically Consistent Coarsening on Adaptive Octrees",
+    "venue": "arXiv preprint · 2026",
+    "year": 2026,
+    "authors": "Mengdi Wang, Yuchen Sun, Bo Zhu",
+    "links": {
+      "PDF": "https://arxiv.org/pdf/2604.18886",
+      "Paper": "https://arxiv.org/abs/2604.18886"
+    },
+    "image": "https://wang-mengdi.github.io/assets/img/publication_preview/fig_tie_fighter_frame400.png",
+    "sources": [
+      "https://wang-mengdi.github.io/publications/"
+    ],
+    "topic": "Simulation",
+    "status": "Preprint",
+    "scope": "Member collaborations",
+    "id": "matrix-free-multigrid-with-algebraically-consistent-coarsening-on-adaptive-octrees"
+  },
+  {
     "title": "NeuralActuator: Neural Actuation Modeling for Robot Dynamics and External Force Perception",
     "authors": "Zhiyang Dou, John U. Onyemelukwe, Hangxing Zhang, Heng Zhang, Minghao Guo, Yunsheng Tian, Michal Piotr Lipiec, Joshua Jacob, Chao Liu, Peter Yichen Chen, Yuri Ivanov, Wojciech Matusik",
     "venue": "Robotics: Science and Systems (RSS) 2026",
@@ -214,42 +251,21 @@
     "id": "neuralactuator-neural-actuation-modeling-for-robot-dynamics-and-external-force-perception"
   },
   {
-    "title": "PINNsur: Physics-Informed Neural Networks for PDEs on Curved Surfaces",
-    "authors": "Pranav Jain, Navami Kairanda, Peter Yichen Chen, Oded Stein",
+    "title": "Odd-DC: Generalizable Neural Model Reduction via Odd Difference-of-Convex Structure",
+    "authors": "Shixun Huang, Eitan Grinspun, Yue Chang",
     "venue": "arXiv preprint · 2026",
     "year": 2026,
+    "image": "https://alessange.github.io/images/publications/odd-dc-training-data.gif",
     "links": {
-      "Paper": "https://arxiv.org/abs/2605.27308"
+      "Paper": "https://arxiv.org/abs/2511.18241"
     },
-    "image": "",
-    "video": "",
-    "award": "",
     "sources": [
-      "https://arxiv.org/abs/2605.27308"
+      "https://alessange.github.io/"
     ],
     "topic": "Simulation",
     "status": "Preprint",
-    "scope": "Peter + collaborators",
-    "id": "pinnsur-physics-informed-neural-networks-for-pdes-on-curved-surfaces"
-  },
-  {
-    "title": "PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning",
-    "authors": "Yuanhang Lei, Tao Cheng, Xingxuan Li, Boming Zhao, Siyuan Huang, Ruizhen Hu, Peter Yichen Chen, Hujun Bao, Zhaopeng Cui",
-    "venue": "CVPR 2026 · Highlight",
-    "year": 2026,
-    "links": {
-      "Project": "https://zju3dv.github.io/PhysSkin/"
-    },
-    "image": "",
-    "video": "",
-    "award": "",
-    "sources": [
-      "https://zju3dv.github.io/PhysSkin/"
-    ],
-    "topic": "Simulation",
-    "status": "Published / accepted",
-    "scope": "Peter + collaborators",
-    "id": "physskin-real-time-and-generalizable-physics-based-animation-via-self-supervised-neural-skinning"
+    "scope": "Member collaborations",
+    "id": "odd-dc-generalizable-neural-model-reduction-via-odd-difference-of-convex-structure"
   },
   {
     "title": "Physically Valid Biomolecular Interaction Modeling with Gauss-Seidel Projection",
@@ -271,6 +287,95 @@
     "status": "Published / accepted",
     "scope": "Peter + collaborators",
     "id": "physically-valid-biomolecular-interaction-modeling-with-gauss-seidel-projection"
+  },
+  {
+    "title": "PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning",
+    "authors": "Yuanhang Lei, Tao Cheng, Xingxuan Li, Boming Zhao, Siyuan Huang, Ruizhen Hu, Peter Yichen Chen, Hujun Bao, Zhaopeng Cui",
+    "venue": "CVPR 2026 · Highlight",
+    "year": 2026,
+    "links": {
+      "Project": "https://zju3dv.github.io/PhysSkin/"
+    },
+    "image": "",
+    "video": "",
+    "award": "",
+    "sources": [
+      "https://zju3dv.github.io/PhysSkin/"
+    ],
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Peter + collaborators",
+    "id": "physskin-real-time-and-generalizable-physics-based-animation-via-self-supervised-neural-skinning"
+  },
+  {
+    "title": "PINNsur: Physics-Informed Neural Networks for PDEs on Curved Surfaces",
+    "authors": "Pranav Jain, Navami Kairanda, Peter Yichen Chen, Oded Stein",
+    "venue": "arXiv preprint · 2026",
+    "year": 2026,
+    "links": {
+      "Paper": "https://arxiv.org/abs/2605.27308"
+    },
+    "image": "",
+    "video": "",
+    "award": "",
+    "sources": [
+      "https://arxiv.org/abs/2605.27308"
+    ],
+    "topic": "Simulation",
+    "status": "Preprint",
+    "scope": "Peter + collaborators",
+    "id": "pinnsur-physics-informed-neural-networks-for-pdes-on-curved-surfaces"
+  },
+  {
+    "title": "SG-Splatting: Accelerating 3D Gaussian Splatting with Spherical Gaussians",
+    "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) · 2026",
+    "year": 2026,
+    "authors": "Yiwen Wang, Siyuan Chen, Ran Yi",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2501.00342"
+    },
+    "sources": [
+      "https://chensiyuan030105.github.io/publications/"
+    ],
+    "image": "https://chensiyuan030105.github.io/assets/img/publication/thumbnail/sg-splatting-fig5.jpg",
+    "topic": "Geometry & Design",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "sg-splatting-accelerating-3d-gaussian-splatting-with-spherical-gaussians"
+  },
+  {
+    "title": "Shape from Semantics: 3D Shape Generation from Multi-View Semantics",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics (TVCG), 2026",
+    "year": 2026,
+    "authors": "Liangchen Li, Caoliwen Wang, Yuqi Zhou, Bailin Deng, Juyong Zhang†",
+    "links": {
+      "PDF": "https://arxiv.org/pdf/2502.00360"
+    },
+    "sources": [
+      "https://wclw1021.github.io/publications/"
+    ],
+    "image": "https://wclw1021.github.io/assets/img/publication/thumbnail/2025sfs.gif",
+    "topic": "Geometry & Design",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "shape-from-semantics-3d-shape-generation-from-multi-view-semantics"
+  },
+  {
+    "title": "SpringTime: Learning Simulatable Models of Cloth with Spatially-varying Constitutive Properties",
+    "venue": "Graphics Interface · 2026",
+    "year": 2026,
+    "authors": "Guanxiong Chen, Shashwat Suri, Yuhao Wu, Etienne Vouga, David I.W. Levin, Dinesh K. Pai",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2507.21288"
+    },
+    "image": "https://www.cs.ubc.ca/~gxchen/images/mass_spring_net.png",
+    "sources": [
+      "https://www.cs.ubc.ca/~gxchen/"
+    ],
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "springtime-learning-simulatable-models-of-cloth-with-spatially-varying-constitutive-properties"
   },
   {
     "title": "WorldAgent: Verification-Guided Agentic Physical World Construction",
@@ -337,76 +442,6 @@
     "video": "https://worldparticle.github.io/WorldParticle_Web/assets/videos/demo-web.mp4"
   },
   {
-    "title": "Efficient Open-Boundary Poisson Solves",
-    "venue": "ACM Transactions on Graphics (Proc. SIGGRAPH Asia) · 2026",
-    "year": 2026,
-    "authors": "Xingyu Ni, Jiong Chen†, Siyuan Chen, Caoliwen Wang, Mathieu Desbrun, Taku Komura",
-    "links": {
-      "Research demos": "https://chensiyuan030105.github.io/demos/"
-    },
-    "sources": [
-      "https://chensiyuan030105.github.io/publications/",
-      "https://wclw1021.github.io/publications/"
-    ],
-    "image": "https://chensiyuan030105.github.io/assets/studio/media/open-boundary.jpg",
-    "video": "https://chensiyuan030105.github.io/assets/studio/media/open-boundary.mp4",
-    "topic": "Simulation",
-    "status": "Published / accepted",
-    "scope": "Member collaborations",
-    "id": "efficient-open-boundary-poisson-solves"
-  },
-  {
-    "title": "Odd-DC: Generalizable Neural Model Reduction via Odd Difference-of-Convex Structure",
-    "authors": "Shixun Huang, Eitan Grinspun, Yue Chang",
-    "venue": "arXiv preprint · 2026",
-    "year": 2026,
-    "image": "https://alessange.github.io/images/publications/odd-dc-training-data.gif",
-    "links": {
-      "Paper": "https://arxiv.org/abs/2511.18241"
-    },
-    "sources": [
-      "https://alessange.github.io/"
-    ],
-    "topic": "Simulation",
-    "status": "Preprint",
-    "scope": "Member collaborations",
-    "id": "odd-dc-generalizable-neural-model-reduction-via-odd-difference-of-convex-structure"
-  },
-  {
-    "title": "SG-Splatting: Accelerating 3D Gaussian Splatting with Spherical Gaussians",
-    "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) · 2026",
-    "year": 2026,
-    "authors": "Yiwen Wang, Siyuan Chen, Ran Yi",
-    "links": {
-      "Paper": "https://arxiv.org/abs/2501.00342"
-    },
-    "sources": [
-      "https://chensiyuan030105.github.io/publications/"
-    ],
-    "image": "https://chensiyuan030105.github.io/assets/img/publication/thumbnail/sg-splatting-fig5.jpg",
-    "topic": "Geometry & Design",
-    "status": "Published / accepted",
-    "scope": "Member collaborations",
-    "id": "sg-splatting-accelerating-3d-gaussian-splatting-with-spherical-gaussians"
-  },
-  {
-    "title": "Shape from Semantics: 3D Shape Generation from Multi-View Semantics",
-    "venue": "IEEE Transactions on Visualization and Computer Graphics (TVCG), 2026",
-    "year": 2026,
-    "authors": "Liangchen Li, Caoliwen Wang, Yuqi Zhou, Bailin Deng, Juyong Zhang†",
-    "links": {
-      "PDF": "https://arxiv.org/pdf/2502.00360"
-    },
-    "sources": [
-      "https://wclw1021.github.io/publications/"
-    ],
-    "image": "https://wclw1021.github.io/assets/img/publication/thumbnail/2025sfs.gif",
-    "topic": "Geometry & Design",
-    "status": "Published / accepted",
-    "scope": "Member collaborations",
-    "id": "shape-from-semantics-3d-shape-generation-from-multi-view-semantics"
-  },
-  {
     "title": "A Hybrid Discrete and Continuum Framework for Multiscale Modeling of Granular Media",
     "authors": "Maytee Chantharayukhonthorn, Peter Yichen Chen, Yonghao Yue, Eitan Grinspun, Ken Kamrin",
     "venue": "Computer Methods in Applied Mechanics and Engineering · 441:117936",
@@ -426,6 +461,23 @@
     "id": "a-hybrid-discrete-and-continuum-framework-for-multiscale-modeling-of-granular-media"
   },
   {
+    "title": "A systematic review of mathematical and machine learning models of Avian Influenza",
+    "authors": "Shixun Huang, Nicola Luigi Bragazzi, Zahra Movahedi Nia, Murray Gillies, Emma Gardner, Doris Leung, Itlala Gizo, Jude D. Kong",
+    "venue": "One Health , 2025",
+    "year": 2025,
+    "image": "https://alessange.github.io/images/publications/avian-influenza.png",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/pii/S2352771425002393"
+    },
+    "sources": [
+      "https://alessange.github.io/"
+    ],
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "a-systematic-review-of-mathematical-and-machine-learning-models-of-avian-influenza"
+  },
+  {
     "title": "AI-Enhanced Automatic Design of Efficient Underwater Gliders",
     "authors": "Peter Yichen Chen, Pingchuan Ma, Niklas Hagemann, John Romanishin, Wei Wang, Daniela Rus, Wojciech Matusik",
     "venue": "ICRA 2025",
@@ -443,6 +495,63 @@
     "status": "Published / accepted",
     "scope": "Peter + collaborators",
     "id": "ai-enhanced-automatic-design-of-efficient-underwater-gliders"
+  },
+  {
+    "title": "An interface tracking method with triangle edge cuts",
+    "venue": "Journal of Computational Physics · 2025",
+    "year": 2025,
+    "authors": "Mengdi Wang, Matthew Cong, Bo Zhu",
+    "links": {
+      "Project": "https://wang-mengdi.github.io/proj/triangle-edge-cuts",
+      "PDF": "https://wang-mengdi.github.io/proj/triangle-edge-cuts/resources/preprint.pdf"
+    },
+    "image": "https://wang-mengdi.github.io/assets/img/publication_preview/triangle-edge-cuts-preview.png",
+    "sources": [
+      "https://wang-mengdi.github.io/publications/"
+    ],
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "an-interface-tracking-method-with-triangle-edge-cuts"
+  },
+  {
+    "title": "Cirrus: Adaptive Hybrid Particle-Grid Flow Maps on GPU",
+    "venue": "ACM Transactions on Graphics (TOG) · 2025",
+    "year": 2025,
+    "authors": "Mengdi Wang, Fan Feng, Junlin Li, Bo Zhu",
+    "links": {
+      "Project": "https://wang-mengdi.github.io/proj/25-cirrus/",
+      "PDF": "https://wang-mengdi.github.io/proj/25-cirrus/cirrus-preprint.pdf",
+      "Code": "https://github.com/wang-mengdi/Cirrus"
+    },
+    "image": "https://wang-mengdi.github.io/assets/img/publication_preview/cirrus-preview.jpg",
+    "sources": [
+      "https://wang-mengdi.github.io/publications/"
+    ],
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "cirrus-adaptive-hybrid-particle-grid-flow-maps-on-gpu"
+  },
+  {
+    "title": "Fast Subspace Fluid Simulation with a Temporally-Aware Basis",
+    "venue": "ACM Transactions on Graphics (Proceedings of SIGGRAPH) · 2025",
+    "year": 2025,
+    "authors": "Siyuan Chen, Yixin Chen, Jonathan Panuelos, Otman Benchekroun, Yue Chang, Eitan Grinspun, Zhecheng Wang†",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2502.05339",
+      "DOI": "https://doi.org/10.1145/3730826",
+      "Project": "https://www.dgp.toronto.edu/projects/dmd/"
+    },
+    "sources": [
+      "https://chensiyuan030105.github.io/publications/"
+    ],
+    "image": "https://chensiyuan030105.github.io/assets/studio/media/subspace-fluids.jpg",
+    "video": "https://chensiyuan030105.github.io/assets/studio/media/subspace-fluids.mp4",
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "fast-subspace-fluid-simulation-with-a-temporally-aware-basis"
   },
   {
     "title": "Learning Object Properties Using Robot Proprioception via Differentiable Robot-Object Interaction",
@@ -486,6 +595,23 @@
     "id": "lifting-the-winding-number-precise-discontinuities-in-neural-fields-for-physics-simulation"
   },
   {
+    "title": "Neural Shadow Art",
+    "venue": "Pacific Graphics (Conference Track), 2025",
+    "year": 2025,
+    "authors": "Caoliwen Wang, Bailin Deng, Juyong Zhang†",
+    "links": {
+      "PDF": "https://arxiv.org/pdf/2411.19161"
+    },
+    "sources": [
+      "https://wclw1021.github.io/publications/"
+    ],
+    "image": "https://wclw1021.github.io/assets/img/publication/thumbnail/pg2025neuralshadowart.gif",
+    "topic": "Geometry & Design",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "neural-shadow-art"
+  },
+  {
     "title": "Precise Gradient Discontinuities in Neural Fields for Subspace Physics",
     "authors": "Mengfei Liu*, Yue Chang*, Zhecheng Wang, Peter Yichen Chen, Eitan Grinspun",
     "venue": "SIGGRAPH Asia 2025",
@@ -504,6 +630,24 @@
     "status": "Published / accepted",
     "scope": "Peter + collaborators",
     "id": "precise-gradient-discontinuities-in-neural-fields-for-subspace-physics"
+  },
+  {
+    "title": "Real-Time Knit Deformation and Rendering",
+    "venue": "ACM Transactions on Graphics (TOG) · 2025",
+    "year": 2025,
+    "authors": "Tao Huang, Haoyang Shi, Mengdi Wang, Yuxing Qiu, Yin Yang, Kui Wu",
+    "links": {
+      "Project": "https://kuiwuchn.github.io/rtstitch.html",
+      "PDF": "https://kuiwuchn.github.io/rtstitch/rtstitch.pdf"
+    },
+    "image": "https://wang-mengdi.github.io/assets/img/publication_preview/rtstitch-preview.jpg",
+    "sources": [
+      "https://wang-mengdi.github.io/publications/"
+    ],
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "real-time-knit-deformation-and-rendering"
   },
   {
     "title": "Shape Space Spectra",
@@ -526,60 +670,6 @@
     "id": "shape-space-spectra"
   },
   {
-    "title": "A systematic review of mathematical and machine learning models of Avian Influenza",
-    "authors": "Shixun Huang, Nicola Luigi Bragazzi, Zahra Movahedi Nia, Murray Gillies, Emma Gardner, Doris Leung, Itlala Gizo, Jude D. Kong",
-    "venue": "One Health , 2025",
-    "year": 2025,
-    "image": "https://alessange.github.io/images/publications/avian-influenza.png",
-    "links": {
-      "Paper": "https://www.sciencedirect.com/science/article/pii/S2352771425002393"
-    },
-    "sources": [
-      "https://alessange.github.io/"
-    ],
-    "topic": "Simulation",
-    "status": "Published / accepted",
-    "scope": "Member collaborations",
-    "id": "a-systematic-review-of-mathematical-and-machine-learning-models-of-avian-influenza"
-  },
-  {
-    "title": "Fast Subspace Fluid Simulation with a Temporally-Aware Basis",
-    "venue": "ACM Transactions on Graphics (Proceedings of SIGGRAPH) · 2025",
-    "year": 2025,
-    "authors": "Siyuan Chen, Yixin Chen, Jonathan Panuelos, Otman Benchekroun, Yue Chang, Eitan Grinspun, Zhecheng Wang†",
-    "links": {
-      "Paper": "https://arxiv.org/abs/2502.05339",
-      "DOI": "https://doi.org/10.1145/3730826",
-      "Project": "https://www.dgp.toronto.edu/projects/dmd/"
-    },
-    "sources": [
-      "https://chensiyuan030105.github.io/publications/"
-    ],
-    "image": "https://chensiyuan030105.github.io/assets/studio/media/subspace-fluids.jpg",
-    "video": "https://chensiyuan030105.github.io/assets/studio/media/subspace-fluids.mp4",
-    "topic": "Simulation",
-    "status": "Published / accepted",
-    "scope": "Member collaborations",
-    "id": "fast-subspace-fluid-simulation-with-a-temporally-aware-basis"
-  },
-  {
-    "title": "Neural Shadow Art",
-    "venue": "Pacific Graphics (Conference Track), 2025",
-    "year": 2025,
-    "authors": "Caoliwen Wang, Bailin Deng, Juyong Zhang†",
-    "links": {
-      "PDF": "https://arxiv.org/pdf/2411.19161"
-    },
-    "sources": [
-      "https://wclw1021.github.io/publications/"
-    ],
-    "image": "https://wclw1021.github.io/assets/img/publication/thumbnail/pg2025neuralshadowart.gif",
-    "topic": "Geometry & Design",
-    "status": "Published / accepted",
-    "scope": "Member collaborations",
-    "id": "neural-shadow-art"
-  },
-  {
     "title": "Simulation Studies of a High-Repetition-Rate Electron-Driven Surface Muon Beamline at SHINE",
     "venue": "Physical Review Accelerators and Beams · 2025",
     "year": 2025,
@@ -596,6 +686,23 @@
     "status": "Published / accepted",
     "scope": "Member collaborations",
     "id": "simulation-studies-of-a-high-repetition-rate-electron-driven-surface-muon-beamline-at-shine"
+  },
+  {
+    "title": "The Effective Inertia of the Lower Limb During Locomotion",
+    "venue": "BioRXiv preprint · 2025",
+    "year": 2025,
+    "authors": "Guanxiong Chen, Bastian Wandt, Helge Rhodin, Dinesh K. Pai",
+    "links": {
+      "Paper": "https://www.biorxiv.org/content/10.1101/2025.10.03.680415v1"
+    },
+    "image": "https://www.cs.ubc.ca/~gxchen/images/dcap.png",
+    "sources": [
+      "https://www.cs.ubc.ca/~gxchen/"
+    ],
+    "topic": "AI for Science",
+    "status": "Preprint",
+    "scope": "Member collaborations",
+    "id": "the-effective-inertia-of-the-lower-limb-during-locomotion"
   },
   {
     "title": "How Can Large Language Models Help Humans in Design and Manufacturing?",
@@ -632,23 +739,6 @@
     "id": "neural-monte-carlo-fluid-simulation"
   },
   {
-    "title": "Warp: Differentiable Spatial Computing for Python",
-    "venue": "SIGGRAPH Courses 2024",
-    "year": 2024,
-    "authors": "Miles Macklin, Nicolas Capens, Zeshun Zong, Pingchuan Ma, Peter Yichen Chen, Gergely Klar",
-    "links": {
-      "PDF": "https://peterchencyc.com/assets/pdf/3664475.3664543.pdf"
-    },
-    "sources": [
-      "https://peterchencyc.com/publications/"
-    ],
-    "image": "https://peterchencyc.com/assets/img/publication/thumbnail/macklin2024.jpeg",
-    "topic": "Simulation",
-    "status": "Published / accepted",
-    "scope": "Peter + collaborators",
-    "id": "warp-differentiable-spatial-computing-for-python"
-  },
-  {
     "title": "PhysMotion: Physics-Grounded Dynamics From a Single Image",
     "authors": "Xiyang Tan, Ying Jiang, Xuan Li, Zeshun Zong, Tianyi Xie, Yin Yang, Chenfanfu Jiang",
     "venue": "arXiv preprint · 2024",
@@ -666,6 +756,23 @@
     "status": "Preprint",
     "scope": "Member collaborations",
     "id": "physmotion-physics-grounded-dynamics-from-a-single-image"
+  },
+  {
+    "title": "Warp: Differentiable Spatial Computing for Python",
+    "venue": "SIGGRAPH Courses 2024",
+    "year": 2024,
+    "authors": "Miles Macklin, Nicolas Capens, Zeshun Zong, Pingchuan Ma, Peter Yichen Chen, Gergely Klar",
+    "links": {
+      "PDF": "https://peterchencyc.com/assets/pdf/3664475.3664543.pdf"
+    },
+    "sources": [
+      "https://peterchencyc.com/publications/"
+    ],
+    "image": "https://peterchencyc.com/assets/img/publication/thumbnail/macklin2024.jpeg",
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Peter + collaborators",
+    "id": "warp-differentiable-spatial-computing-for-python"
   },
   {
     "title": "CROM: Continuous Reduced-Order Modeling of PDEs Using Implicit Neural Representations",
@@ -827,6 +934,96 @@
     "id": "plasticine3d-3d-non-rigid-editing-with-text-guidance-by-multi-view-embedding-optimization"
   },
   {
+    "title": "A Clebsch method for free-surface vortical flow simulation",
+    "venue": "ACM Transactions on Graphics (TOG) · 2022",
+    "year": 2022,
+    "authors": "Shiying Xiong, Zhecheng Wang, Mengdi Wang, Bo Zhu",
+    "links": {
+      "Project": "https://shiyingxiong.github.io/proj/Clebsch/Clebsch",
+      "PDF": "https://shiyingxiong.github.io/proj/Clebsch/Clebsch.pdf"
+    },
+    "image": "https://wang-mengdi.github.io/assets/img/publication_preview/clebsch-preview.png",
+    "sources": [
+      "https://wang-mengdi.github.io/publications/"
+    ],
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "a-clebsch-method-for-free-surface-vortical-flow-simulation"
+  },
+  {
+    "title": "A moving Eulerian-Lagrangian particle method for thin film and foam simulation",
+    "venue": "ACM Transactions on Graphics (TOG) · 2022",
+    "year": 2022,
+    "authors": "Yitong Deng, Mengdi Wang, Xiangxin Kong, Shiying Xiong, Zangyueyang Xian, Bo Zhu",
+    "links": {
+      "Project": "https://yitongdeng.github.io/MELP_Project.github.io/",
+      "PDF": "https://wang-mengdi.github.io/assets/pdf/melp.pdf",
+      "Code": "https://github.com/wang-mengdi/melp-thin-film"
+    },
+    "image": "https://wang-mengdi.github.io/assets/img/publication_preview/melp-preview.png",
+    "sources": [
+      "https://wang-mengdi.github.io/publications/"
+    ],
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "a-moving-eulerian-lagrangian-particle-method-for-thin-film-and-foam-simulation"
+  },
+  {
+    "title": "Completeness and Coherence Learning for Fast Arbitrary Style Transfer",
+    "venue": "Transactions on Machine Learning Research (TMLR) · 2022",
+    "year": 2022,
+    "authors": "Zhijie Wu, Chunjin Song, Guanxiong Chen, Sheng Guo, Weilin Huang",
+    "links": {
+      "Paper": "https://openreview.net/forum-original?id=4N6T6Rop6k"
+    },
+    "image": "https://www.cs.ubc.ca/~gxchen/images/ccnet.png",
+    "sources": [
+      "https://www.cs.ubc.ca/~gxchen/"
+    ],
+    "topic": "Geometry & Design",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "completeness-and-coherence-learning-for-fast-arbitrary-style-transfer"
+  },
+  {
+    "title": "Hydrophobic and hydrophilic solid-fluid interaction",
+    "venue": "ACM Transactions on Graphics · 2022",
+    "year": 2022,
+    "authors": "Jinyuan Liu, Mengdi Wang, Fan Feng, Annie Tang, Qiqin Le, Bo Zhu",
+    "links": {
+      "Project": "https://dl.acm.org/doi/10.1145/3550454.3555478"
+    },
+    "image": "https://wang-mengdi.github.io/assets/img/publication_preview/hydrophobic-preview.jpeg",
+    "sources": [
+      "https://wang-mengdi.github.io/publications/"
+    ],
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "hydrophobic-and-hydrophilic-solid-fluid-interaction"
+  },
+  {
+    "title": "ROS-X-Habitat: Bridging the ROS Ecosystem with Embodied AI",
+    "venue": "19th Conference on Robots and Vision (CRV) · 2022",
+    "year": 2022,
+    "authors": "Guanxiong Chen, Haoyu Yang, Ian M. Mitchell",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2109.07703",
+      "Code": "https://github.com/ericchen321/ros_x_habitat",
+      "Press": "https://zhuanlan.zhihu.com/p/636070175"
+    },
+    "image": "https://www.cs.ubc.ca/~gxchen/images/ros_x_hab.png",
+    "sources": [
+      "https://www.cs.ubc.ca/~gxchen/"
+    ],
+    "topic": "Robotics",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "ros-x-habitat-bridging-the-ros-ecosystem-with-embodied-ai"
+  },
+  {
     "title": "Hybrid discrete-continuum modeling of shear localization in granular media",
     "venue": "Journal of the Mechanics and Physics of Solids (JMPS) 2021",
     "year": 2021,
@@ -842,6 +1039,59 @@
     "status": "Published / accepted",
     "scope": "Peter + collaborators",
     "id": "hybrid-discrete-continuum-modeling-of-shear-localization-in-granular-media"
+  },
+  {
+    "title": "PAL: A Framework for Physically Assisted Learning Through Design and Exploration With a Haptic Robot Buddy",
+    "venue": "Frontiers in Robotics and AI · 2021",
+    "year": 2021,
+    "authors": "Soheil Kianzad, Guanxiong Chen, Karon MacLean",
+    "links": {
+      "Paper": "https://www.frontiersin.org/articles/10.3389/frobt.2021.700465/full"
+    },
+    "image": "https://www.cs.ubc.ca/~gxchen/images/pal.jpg",
+    "sources": [
+      "https://www.cs.ubc.ca/~gxchen/"
+    ],
+    "topic": "Robotics",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "pal-a-framework-for-physically-assisted-learning-through-design-and-exploration-with-a-haptic-robot-buddy"
+  },
+  {
+    "title": "Thin-film smoothed particle hydrodynamics fluid",
+    "venue": "ACM Transactions on Graphics (TOG) · 2021",
+    "year": 2021,
+    "authors": "Mengdi Wang, Yitong Deng, Xiangxin Kong, Aditya H Prasad, Shiying Xiong, Bo Zhu",
+    "links": {
+      "Project": "https://wang-mengdi.github.io/proj/thin-film-sph/",
+      "PDF": "https://wang-mengdi.github.io/assets/pdf/sph-bubble.pdf",
+      "Code": "https://github.com/wang-mengdi/sph-thin-film"
+    },
+    "image": "https://wang-mengdi.github.io/assets/img/publication_preview/thin-film-sph-preview.jpg",
+    "sources": [
+      "https://wang-mengdi.github.io/publications/"
+    ],
+    "topic": "Simulation",
+    "status": "Published / accepted",
+    "scope": "Member collaborations",
+    "id": "thin-film-smoothed-particle-hydrodynamics-fluid"
+  },
+  {
+    "title": "Visual data analysis and simulation prediction for COVID-19",
+    "venue": "arXiv preprint · 2020",
+    "year": 2020,
+    "authors": "Baoquan Chen, Mingyi Shi, Xingyu Ni, Liangwang Ruan, Hongda Jiang, Heyuan Yao, Mengdi Wang, Zhenhua Song, Qiang Zhou, Tong Ge",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2002.07096v3/"
+    },
+    "image": "",
+    "sources": [
+      "https://wang-mengdi.github.io/publications/"
+    ],
+    "topic": "AI for Science",
+    "status": "Preprint",
+    "scope": "Member collaborations",
+    "id": "visual-data-analysis-and-simulation-prediction-for-covid-19"
   },
   {
     "title": "Characterization of CO2 laser browning of dough",
