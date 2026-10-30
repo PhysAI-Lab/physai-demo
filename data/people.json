@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Caoliwen Wang",
+    "role": "PhD student",
+    "area": "World models · Physical AI",
+    "url": "https://wclw1021.github.io/",
+    "photo": "https://wclw1021.github.io/assets/img/prof_pic.jpg",
+    "source": "https://wclw1021.github.io/"
+  },
+  {
+    "name": "Siyuan Chen",
+    "role": "PhD student",
+    "area": "Neural simulation · Biomolecular modeling",
+    "url": "https://chensiyuan030105.github.io/",
+    "photo": "",
+    "source": "https://chensiyuan030105.github.io/about/"
+  },
+  {
+    "name": "Heng Zhang",
+    "role": "PhD student · co-advised with Chao Liu",
+    "area": "Robotics · Differentiable simulation",
+    "url": "https://peterchencyc.com/joining",
+    "photo": "",
+    "source": "https://peterchencyc.com/joining"
+  },
+  {
+    "name": "Weijia Zeng",
+    "role": "PhD student · co-advised with Kwang Moo Yi",
+    "area": "3D vision · Graphics",
+    "url": "https://www.cs.ubc.ca/~kmyi/team/",
+    "photo": "",
+    "source": "https://www.cs.ubc.ca/~kmyi/team/"
+  },
+  {
+    "name": "Xiyang Tan",
+    "role": "PhD student · co-advised with Kwang Moo Yi",
+    "area": "Generative AI · Physics-based simulation",
+    "url": "https://supertan0204.github.io/",
+    "photo": "https://supertan0204.github.io/images/xiyang.jpg",
+    "source": "https://peterchencyc.com/joining"
+  },
+  {
+    "name": "Shixun Huang",
+    "role": "PhD student",
+    "area": "Physics AI · Model reduction",
+    "url": "https://alessange.github.io/",
+    "photo": "https://alessange.github.io/images/profile/shixun_huang_grad_profile.png",
+    "source": "https://alessange.github.io/"
+  },
+  {
+    "name": "Qianjun Xia",
+    "role": "PhD student",
+    "area": "Robotics · Physical intelligence",
+    "url": "https://qianjun-xia.github.io/",
+    "photo": "",
+    "source": "https://qianjun-xia.github.io/about/"
+  },
+  {
+    "name": "Guanxiong Chen",
+    "role": "PhD student · co-advised with Chao Liu",
+    "area": "Deformable simulation · Robot manipulation",
+    "url": "https://www.cs.ubc.ca/~gxchen/",
+    "photo": "https://www.cs.ubc.ca/~gxchen/images/profile_2024-04-10.jpg",
+    "source": "https://www.cs.ubc.ca/~gxchen/"
+  }
+]

@@ -1,21 +1,39 @@
-# PhysAI Lab — website demo
+# PhysAI Lab · UBC
 
-Static homepage concept for Peter Yichen Chen's PhysAI Lab at UBC.
+Research website for Peter Yichen Chen and PhysAI Lab, implemented as a portable static website for GitHub Pages.
 
-## Publish on GitHub Pages
+## Pages
 
-Open Settings → Pages. Under Build and deployment, choose Deploy from a branch, select main and /(root), then Save.
+- `index.html`: research-led homepage and selected recognition.
+- `research.html`: three research directions, with related projects.
+- `publications.html`: searchable bibliography with year, topic, publication status, and collection filters; citation previews.
+- `demos.html`: research previews and source project/code links.
+- `people.html`: principal investigator and eight publicly documented doctoral profiles, including co-advised students.
+- `news.html`: verified recognition, research updates, and press.
+- `join.html`: graduate, postdoctoral, and collaboration information.
 
-Expected URL after deployment: https://chensiyuan030105.github.io/physai-demo/
+## Publish
 
-## Edit and migrate
+In GitHub **Settings → Pages**, choose **Deploy from a branch → main → /(root) → Save**. No build workflow or npm installation is required. Keep `.nojekyll` at the repository root.
 
-The site is self-contained in index.html, with no dependencies or build step. Edit and commit that file to update the website. Keep .nojekyll in the repository root.
+Expected URL: https://chensiyuan030105.github.io/physai-demo/
 
-To move to another host, copy index.html and .nojekyll. A future custom domain must also be configured in hosting settings and DNS; no domain has been registered or bound by this demo.
+## Maintain
 
-## Content status
+Bibliographic content lives in `data/publications.json`. Run `python tools/build.py` after editing it. The generator uses only the Python standard library. Team profile content currently lives in the `PEOPLE` list in `tools/build.py`; `data/people.json` is a generated export. Other editorial sections also live in the generator.
 
-This is a review demo, not a finalized lab directory. The wave animation is an illustrative design asset, not experimental data. Member profiles and research media should be confirmed before adding them. The Selected work section contains one paper and one research overview, not a full paper list.
+Shared appearance and behavior are in `assets/site.css` and `assets/site.js`. Generated HTML works without JavaScript; filtering and preview dialogs are progressive enhancements.
 
-Sources: https://peterchencyc.com/ ; https://www.cs.ubc.ca/people/peter-yichen-chen ; https://www.cs.ubc.ca/news/2026/07/dr-chen-ecr-sca ; https://www.cs.ubc.ca/news/2026/01/new-faculty-dr-peter-yichen-chen
+## Sources and attribution
+
+See `SOURCES.md`. The collection includes Peter's work with collaborators, work at earlier institutions, and current members' independent collaborations. These are identified in the publication filters rather than attributed indiscriminately to UBC PhysAI.
+
+Preprints are explicitly labeled. Accepted future-conference work is grouped with published/accepted work. Generic BibTeX entries are generated from the displayed public metadata; consult the publisher/project for the canonical citation.
+
+Thumbnails are optimized local WebP files. `data/media-map.json` records their original URLs. Research preview videos and animations load on demand from their authors' original hosting; they are not mirrored in this repository. Project media remain credited to their respective authors. Thumbnails are derived previews, not new research results.
+
+Profile images are used only when identified on the person's public website; initials are used otherwise. The roster was assembled from Peter's joining page and members' own pages on 2026-10-30; the lab should review it as membership changes.
+
+## Move to a permanent domain or another host
+
+The site uses relative internal links and requires only static hosting. Copy the generated HTML, assets, and `.nojekyll` to the new host. Configure DNS and the hosting domain setting separately. No custom domain has been registered or bound by this repository. To keep GitHub Pages behind a UBC subdomain, first obtain approval and DNS instructions from UBC CS IT.
