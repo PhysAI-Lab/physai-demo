@@ -24,6 +24,8 @@ Bibliographic content lives in `data/publications.json`. Run `python tools/build
 
 Shared appearance and behavior are in `assets/site.css` and `assets/site.js`. Generated HTML works without JavaScript; filtering and preview dialogs are progressive enhancements.
 
+The current design follows the restrained academic typography and team presentation of the supplied Cong Lab reference: factual page headings, editorial research rows, and a compact header. Cormorant Garamond, Karla, Josefin Sans, and IBM Plex Mono are self-hosted under the included SIL Open Font License files in `assets/fonts/`.
+
 ## Sources and attribution
 
 See `SOURCES.md`. The collection includes Peter's work with collaborators, work at earlier institutions, and current members' independent collaborations. These are identified in the publication filters rather than attributed indiscriminately to UBC PhysAI.
