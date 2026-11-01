@@ -71,3 +71,7 @@ This is a curated public-source collection, not a guarantee of an exhaustive or 
 - https://agentic-real2sim.github.io/ — credited project and research-film destination for the homepage.
 
 The confirmed public roster contains eight doctoral researchers, one postdoctoral fellow, and one visiting student. This is a public-source snapshot, not a claim that every current member has been identified. See TEAM_SOURCES.md for the individual evidence links.
+
+## Lab-provided roster update · 2026-11-01
+
+Added Zhenyi Wang and Shenyifan Lu as incoming PhD students, Ziyi Jiao as a master’s student, and Yiwen Chen as a visiting undergraduate student, following the maintainer’s direct corrections. Shenyifan is the full given name and Lu the family name. No start dates or personal websites were inferred. See TEAM_SOURCES.md and the source_type metadata in data/people.json.

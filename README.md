@@ -8,7 +8,7 @@ Research website for Peter Yichen Chen and PhysAI Lab, implemented as a portable
 - `research.html`: three research directions, with related projects.
 - `publications.html`: searchable bibliography with year, topic, publication status, and collection filters; citation previews.
 - `demos.html`: research previews and source project/code links.
-- `people.html`: principal investigator, one postdoctoral fellow, eight doctoral researchers (including co-advised students), and one visiting undergraduate researcher.
+- `people.html`: principal investigator, one postdoctoral fellow, eight current doctoral researchers (including co-advised students), two incoming PhD students, one master’s student, and two visiting students.
 - `news.html`: verified recognition, research updates, and press.
 - `join.html`: graduate, postdoctoral, and collaboration information.
 
@@ -20,7 +20,7 @@ Expected URL: https://chensiyuan030105.github.io/physai-demo/
 
 ## Maintain
 
-Bibliographic content lives in `data/publications.json`. Run `python tools/build.py` after editing it. The generator uses only the Python standard library. Team profile content currently lives in the `PEOPLE`, `POSTDOCS`, and `VISITORS` lists in `tools/build.py`; `data/people.json` is a generated export. Other editorial sections also live in the generator.
+Bibliographic content lives in `data/publications.json`. Run `python tools/build.py` after editing it. The generator uses only the Python standard library. Team profile content currently lives in the `PEOPLE`, `POSTDOCS`, `INCOMING`, `MASTERS`, and `VISITORS` lists in `tools/build.py`; `data/people.json` is a generated export. Other editorial sections also live in the generator.
 
 Shared appearance and behavior are in `assets/site.css` and `assets/site.js`. Generated HTML works without JavaScript; filtering and preview dialogs are progressive enhancements.
 

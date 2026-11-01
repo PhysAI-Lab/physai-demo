@@ -81,6 +81,49 @@
     "category": "postdoctoral"
   },
   {
+    "name": "Zhenyi Wang",
+    "role": "Incoming PhD student",
+    "area": "",
+    "url": "",
+    "photo": "",
+    "source": "Lab-provided roster update, 2026-11-01",
+    "source_type": "lab-provided",
+    "publications": false,
+    "category": "incoming-doctoral"
+  },
+  {
+    "name": "Shenyifan Lu",
+    "role": "Incoming PhD student",
+    "area": "",
+    "url": "",
+    "photo": "",
+    "source": "Lab-provided roster update, 2026-11-01",
+    "source_type": "lab-provided",
+    "publications": false,
+    "category": "incoming-doctoral"
+  },
+  {
+    "name": "Ziyi Jiao",
+    "role": "Master’s student",
+    "area": "",
+    "url": "",
+    "photo": "",
+    "source": "Lab-provided roster update, 2026-11-01",
+    "source_type": "lab-provided",
+    "category": "masters"
+  },
+  {
+    "name": "Yiwen Chen",
+    "role": "Visiting undergraduate student",
+    "area": "",
+    "url": "",
+    "photo": "",
+    "source": "Lab-provided roster update, 2026-11-01",
+    "source_type": "lab-provided",
+    "publications": false,
+    "category": "visiting"
+  },
+  {
     "name": "Baiming Zhang",
     "role": "Visiting International Research Student · Oct 2026–Jan 2027 (expected)",
     "area": "Zhejiang University undergraduate · Scientific machine learning",

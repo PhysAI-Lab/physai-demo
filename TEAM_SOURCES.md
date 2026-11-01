@@ -20,3 +20,16 @@ Peter’s [joining page](https://peterchencyc.com/joining) names Caoliwen Wang, 
 Mengdi Wang’s own homepage explicitly identifies his postdoctoral appointment in Peter’s lab. Baiming Zhang’s homepage identifies his home undergraduate institution, UBC VIRS registration, and expected October 2026–January 2027 visit. Visiting status does not imply a UBC PhD or postdoctoral appointment.
 
 Coauthorship alone was not used as evidence of membership. Past work at other institutions remains labeled Member collaborations and retains the original author lists.
+
+## Lab-provided update · 2026-11-01
+
+The maintainer supplied four additional members and confirmed the following roles directly. These entries are distinguished from the earlier public-source snapshot. Unconfirmed personal websites, portraits, research areas, and incoming start dates are omitted.
+
+| Researcher | Role | Source |
+| --- | --- | --- |
+| Zhenyi Wang | Incoming PhD student | Maintainer confirmation, 2026-11-01 |
+| Shenyifan Lu | Incoming PhD student | Maintainer confirmation, 2026-11-01; given name Shenyifan, surname Lu |
+| Ziyi Jiao | Master’s student | Maintainer confirmation, 2026-11-01 |
+| Yiwen Chen | Visiting undergraduate student | Maintainer confirmation, 2026-11-01 |
+
+Current displayed roster: one PI, one postdoctoral fellow, eight current doctoral students, two incoming PhD students, one master’s student, and two visiting students (15 people total). Ziyi Jiao’s existing coauthorship on Agentic Real2Sim provides a publication link; the appointment classification comes from the maintainer.
