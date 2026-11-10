@@ -19,6 +19,7 @@ def button(p,label='Watch demo',cls=''):
  kind='video' if p.get('video') else 'image'
  return f'<button class="{cls}" data-media="{e(media)}" data-kind="{kind}" data-title="{e(p["title"])}" data-project="{e(p["links"].get("Project",p["links"].get("Paper","")))}">{label}</button>'
 PEOPLE=[
+ dict(name='Ahmed Hatem',role='PhD student',area='',url='',photo='',source='Lab-provided roster update, 2026-11-10',source_type='lab-provided',publications=False),
  dict(name='Caoliwen Wang',role='PhD student',area='World models · Physical AI',url='https://wclw1021.github.io/',photo='https://wclw1021.github.io/assets/img/prof_pic.jpg',source='https://wclw1021.github.io/'),
  dict(name='Siyuan Chen',role='PhD student',area='Neural simulation · Biomolecular modeling',url='https://chensiyuan030105.github.io/',photo='',source='https://chensiyuan030105.github.io/about/'),
  dict(name='Heng Zhang',role='PhD student · co-advised with Chao Liu',area='Robotics · Differentiable simulation',url='https://peterchencyc.com/joining',photo='',source='https://peterchencyc.com/joining'),

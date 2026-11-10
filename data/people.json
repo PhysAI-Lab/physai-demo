@@ -1,5 +1,16 @@
 [
   {
+    "name": "Ahmed Hatem",
+    "role": "PhD student",
+    "area": "",
+    "url": "",
+    "photo": "",
+    "source": "Lab-provided roster update, 2026-11-10",
+    "source_type": "lab-provided",
+    "publications": false,
+    "category": "doctoral"
+  },
+  {
     "name": "Caoliwen Wang",
     "role": "PhD student",
     "area": "World models · Physical AI",
